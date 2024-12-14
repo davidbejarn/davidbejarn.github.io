@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "David Bejarano Díaz",
+    "label": "Systems Engineering student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "juanbejaranodiaz03@gmail.com",
+    "phone": "322-951-7642",
     "url": "https://george-gca.github.io/multi-language-al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am a person with a passion for learning and a constant curiosity to expand my knowledge in different fields.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Fontibon",
+      "postalCode": "110911",
+      "city": "Bogotá",
+      "countryCode": "Colombia",
+      "region": "Bogotá D.C"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "david6e",
+        "url": "https://x.com/david6e"
       }
     ]
   },
