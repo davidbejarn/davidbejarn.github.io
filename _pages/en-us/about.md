@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: ![FB_IMG_1730351877737](https://github.com/user-attachments/assets/0269cfe9-07f6-42af-a252-71b5fb61e836)
+  image: IMG_20240107_120748.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bogotá, Colombia</p>
