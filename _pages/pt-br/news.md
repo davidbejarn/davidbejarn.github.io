@@ -5,4 +5,6 @@ title: novidades
 permalink: /news/
 ---
 
+All news
+
 {% include news.liquid %}
