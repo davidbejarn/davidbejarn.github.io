@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "",
+      "position": "",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
@@ -95,7 +95,7 @@
   ],
   "skills": [
     {
-      "name": "Skills in the field of Systems Engineering.",
+      "name": "Tech Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
