@@ -45,6 +45,6 @@ I possess skills in both software and hardware, allowing me to provide comprehen
 
 
   
----
+<hr style="border: 1px solid black;">
   
 <h5 align="center"> Have a nice day! </h5>
