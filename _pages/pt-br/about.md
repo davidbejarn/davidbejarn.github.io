@@ -33,6 +33,8 @@ social: true # includes social icons at the bottom of the page
 
 I possess skills in both software and hardware, allowing me to provide comprehensive technical support. I am always eager to learn and explore new opportunities, which drives my continuous development in the tech field.</p>
 
+<p> For more information, please visit <a href="/cv">Curriculum Vitae (CV)</a>.</p>
+
 <h4>Hobbies</h4>
 
 <p>I enjoy exploring new things and trying different activities. As an adventurous person. Traveling, walking, and hiking are some of my favorite ways to connect with nature🌳. I also love cycling🚲, playing basketball🏀, and listening to music🎧.</p>
@@ -41,4 +43,8 @@ I possess skills in both software and hardware, allowing me to provide comprehen
 
 <p>If you have any questions or would like to connect, please do not hesitate to contact me!</p>
 
+
+  
+---
+  
 <h5 align="center"> Have a nice day! </h5>
