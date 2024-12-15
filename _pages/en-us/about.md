@@ -40,5 +40,5 @@ I possess skills in both software and hardware, allowing me to provide comprehen
 <p>Food is another passion of mine. I enjoy trying dishes from different cuisines, and baking desserts is one of my favorite hobbies. I’m currently exploring new cooking techniques and recipes. On the other hand, I’m also an animal lover, fascinated by arthropods and their diversity🕷️. However, my pet cat who has become an important part of my life is my greatest companion🐱. My hobbies keep me active and always curious about the world.</p>
 
 <p>If you have any questions or would like to connect, please do not hesitate to contact me!</p>
-
+---
 <h5 align="center"> Have a nice day! </h5>
