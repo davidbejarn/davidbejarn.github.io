@@ -1,10 +1,10 @@
 github_users:
-  - davidbejaran
+  - davidbejarn
 
 repo_description_lines_max: 2
 
 github_repos:
-  - Recomombot
-  - Java-programming
-  - DataStructure
+  - davidbejarn/Recomombot
+  - davidbejarn/Java-programming
+  - davidbejarn/DataStructure
 
