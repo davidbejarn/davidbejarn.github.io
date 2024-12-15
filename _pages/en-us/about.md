@@ -1,9 +1,9 @@
 ---
 page_id: about
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.
+subtitle: <b>Systems Engineering student<b>
 
 profile:
   align: right
