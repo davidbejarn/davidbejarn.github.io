@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Juan
-middle_name: David
-last_name: Bejarano Diaz
+first_name: David
+middle_name: 
+last_name: Bejarano Díaz
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
