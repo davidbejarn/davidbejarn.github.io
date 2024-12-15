@@ -43,8 +43,6 @@ I possess skills in both software and hardware, allowing me to provide comprehen
 
 <p>If you have any questions or would like to connect, please do not hesitate to contact me!</p>
 
-
-  
----
+<hr style="border: 1px solid black;">
   
 <h5 align="center"> Have a nice day! </h5>
