@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 <div style="text-align: justify"> 
 
-<h5 align="center"><b>Nice to meet you! ✌️ </b> </h5> 
+<h5 align="center"><b>Encantado de conocerte! ✌️ </b> </h5> 
 
 <p>Soy un estudiante de Ingeniería de Sistemas, con una gran curiosidad por ampliar mis conocimientos en diversas áreas. Durante mi formación, me enfoco en aprender y aplicar nuevas tecnologías. Me destaco por mi capacidad de adaptación al cambio y por ser proactivo, puntual y responsable, con un enfoque claro en la resolución de problemas.
 
