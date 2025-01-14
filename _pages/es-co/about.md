@@ -1,9 +1,9 @@
 ---
 page_id: about
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <b>Systems Engineering student<b>
+subtitle: <b>Estudiante de Ingeniería de Sistemas<b>
 
 profile:
   align: right
@@ -29,20 +29,20 @@ social: true # includes social icons at the bottom of the page
 
 <h5 align="center"><b>Nice to meet you! ✌️ </b> </h5> 
 
-<p>I am a passionate and innovative Systems Engineering student with a constant curiosity to expand my knowledge in various fields. As a student, I focus on learning and applying new technologies. I have a strong ability to adapt to change and I am characterized by being entrepreneurial, proactive, punctual, and responsible, with a clear focus on problem-solving.
+<p>Soy un estudiante de Ingeniería de Sistemas, con una gran curiosidad por ampliar mis conocimientos en diversas áreas. Durante mi formación, me enfoco en aprender y aplicar nuevas tecnologías. Me destaco por mi capacidad de adaptación al cambio y por ser proactivo, puntual y responsable, con un enfoque claro en la resolución de problemas.
 
-I possess skills in both software and hardware, allowing me to provide comprehensive technical support. I am always eager to learn and explore new opportunities, which drives my continuous development in the tech field.</p>
+Cuento con habilidades tanto en software como en hardware, lo que me permite ofrecer un soporte técnico integral. Siempre estoy dispuesto a aprender y explorar nuevas oportunidades, lo que impulsa mi desarrollo continuo en el ámbito tecnológico.</p>
 
-<p> For more information, please visit <a href="/cv">Curriculum Vitae (CV)</a>.</p>
+<p> Para más información, visita <a href="/cv">Curriculum Vitae (CV)</a>.</p>
 
 <h4>Hobbies</h4>
 
-<p>I enjoy exploring new things and trying different activities. As an adventurous person. Traveling, walking, and hiking are some of my favorite ways to connect with nature🌳. I also love cycling, playing basketball, and listening to music🎧.</p>
+<p>Me apasiona descubrir nuevas cosas; me considero una persona aventurera a la que le encanta viajar, caminar y hacer senderismo🌳. Una de mis actividades favoritas es explorar nuevos lugares en Colombia y, especialmente, descubrir rincones únicos en Bogotá. También disfruto de andar en bicicleta, jugar baloncesto, y dejarme llevar por la música, que siempre me acompaña en mis momentos de tranquilidad o inspiración🎧.</p>
 
-<p>Food is another passion of mine. I enjoy trying dishes from different cuisines, and baking desserts is one of my favorite hobbies. I’m currently exploring new cooking techniques and recipes. On the other hand, I’m also an animal lover, fascinated by arthropods and their diversity. However, my pet cat who has become an important part of my life is my greatest companion. My hobbies keep me active and always curious about the world.</p>
+<p>La comida es otra de mis pasiones. Disfruto probar platos de diferentes cocinas. Asimismo, la repostería es uno de mis pasatiempos favoritos. Actualmente, estoy explorando nuevas técnicas de cocina y recetas. Además, soy amante de los animales, con una fascinación especial por los artrópodos y su diversidad🕷. Sin embargo, mi mascota es una gata, la cual se ha convertido en una parte importante de mi vida. Por otro lado, mis pasatiempos me mantienen activo y siempre curioso.</p>
 
-<p>If you have any questions or would like to connect, please do not hesitate to contact me!</p>
+<p>Si tienes alguna pregunta o te gustaría comunicarte, no dudes en contactarme!</p>
 
-<hr style="border: 1px solid black;">
+<hr style="border: 1px black;">
   
-<h5 align="center"> Have a nice day! </h5>
+<h5 align="center"> Que tengas un buen día! </h5>
