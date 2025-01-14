@@ -43,6 +43,6 @@ Cuento con habilidades tanto en software como en hardware, lo que me permite ofr
 
 <p>Si tienes alguna pregunta o te gustaría comunicarte, no dudes en contactarme!</p>
 
-<hr style="border: 1px black;">
   
 <h5 align="center"> Que tengas un buen día! </h5>
+<hr style="border: 0; border-top: 1px solid white;">
