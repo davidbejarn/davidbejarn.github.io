@@ -1,14 +1,16 @@
 {
   "basics": {
-    "name": "Juan David Bejarano Diaz",
-    "label": "Systems Engineering student",
+    "Name": "Juan David Bejarano Diaz",
+    "Label": "Systems Engineering student",
     "image": "",
-    "email": "juanbejaranodiaz03@gmail.com",
-    "phone": "322-951-7642",
-    "url": "https://github.com/davidbejarn",
-    "summary": "A person with a passion for learning and a constant curiosity to expand my knowledge in different fields.",
+    "Email": "juanbejaranodiaz03@gmail.com",
+    "Phone": "(+57) 322-951-7642",
+    "Github": "https://github.com/davidbejarn",
+    "Website": "https://davidbejarn.github.io/cv/",
+    "LinkedIn": "https://www.linkedin.com/in/juan-david-bejarano-diaz-159a52336/",
+    "Summary": "A person with a passion for learning and a constant curiosity to expand my knowledge in different fields.",
     "location": {
-      "address": "Fontibon",
+      "address": "",
       "postalCode": "110911",
       "city": "Bogotá",
       "countryCode": "Colombia",
@@ -30,7 +32,7 @@
       "startDate": "2024-01-01",
       "endDate": "2024-01-01",
       "summary": "",
-      "highlights": ["Relativity"]
+      "highlights": [""]
     }
   ],
   "education": [
@@ -118,7 +120,7 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "interests in": [
     {
       "name": "Systems Engineering",
       "icon": "fa-solid fa-tag",
@@ -126,8 +128,26 @@
         "Machine Learning",
         "Cloud",
         "Amazon Web Services",
-        "Data Analytics",
-        "Programming"
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Python",
+        "Java",
+        "HTML and CSS"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Listening to music 🎧",
+        "Studying 📚",
+        "Cycling 🚴‍♂️",
+        "Basketball 🏀"
       ]
     }
   ],
@@ -138,6 +158,21 @@
       "startDate": "2024-07-01",
       "endDate": "2024-12-05",
       "url": "https://github.com/davidbejarn/Recomombot"
+    },
+    {
+      "name": "Attendance-Tracker",
+      "summary": "A tool that records and monitors users attendance at events, such as work or training sessions.",
+      "startDate": "2025-01-14",
+      "endDate": "2025-01-29",
+      "url": "https://github.com/davidbejarn/Attendance-Tracker"
+    },
+    {
+      "name": "AccessManager",
+      "summary": "A Java-based system for managing vehicle access.",
+      "startDate": "2024-12-09",
+      "endDate": "2025-01-29",
+      "url": "https://github.com/davidbejarn/Attendance-Tracker"
     }
+    
   ]
 }
