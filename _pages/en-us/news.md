@@ -1,8 +1,9 @@
 ---
 page_id: news
 layout: page
-title: news
+title: News
 permalink: /news/
 ---
+All news
 
 {% include news.liquid %}
