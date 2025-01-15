@@ -6,6 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name: Bejarano
 last_name: Díaz
+email: juanbejaranodiaz03@gmail.com
+github: www.github.com/davidbejarn
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 icon: 🔗  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -74,7 +76,7 @@ flickr_id: # your flickr id
 github_username: davidbejarn # your GitHub user name
 gitlab_username: davidbejarn # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-instagram_id: # your instagram id
+instagram_id: juann6e # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
@@ -91,7 +93,7 @@ research_gate_profile: # your profile on ResearchGate
 scholar_userid:  # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
-spotify_id: # your spotify id
+spotify_id: 31f6edqcwa4thlcazmjoydt22dje # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
