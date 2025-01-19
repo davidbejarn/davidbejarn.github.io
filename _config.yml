@@ -159,9 +159,9 @@ disqus_shortname: multi-language-al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: Maya
+  - name: Maya Blog
     posts:
-      - url: https://mayadiary1.blogspot.com/2025/01/blog-post.html
+      - url: https://mayadiary1.blogspot.com
         published_date: 2025-01-19
 
 # -----------------------------------------------------------------------------
