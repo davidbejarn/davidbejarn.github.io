@@ -1,14 +1,14 @@
-- title: General Information
+- title: Información General
   type: map
   contents:
-    - name: Full Name
+    - name: Nombre
       value: Juan David Bejarano Diaz
-    - name: Date of Birth
-      value: 3th November 2004
-    - name: Languages
-      value: English, Spanish
+    - name: Fecha de Nacimiento
+      value: 03/11/2004
+    - name: Idiomas
+      value: Inglés, Español
 
-- title: Education
+- title: Educación
   type: time_table
   contents:
     - title: Bachiller Académico
@@ -25,26 +25,25 @@
       institution: <a href="https://smart.edu.co/home/?utm_source=GAdsPerformance&utm_medium=Display&gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrO4iRoEkoCIsNoQeLydzkrfUXsWFkHa0eXOfVW3r506fZPe-Wa96HoaAjz2EALw_wcB">Academia de Idiomas Smart</a>
       year: 2025
 
-- title: Experience
+- title: Experiencia 
   type: time_table
   contents:
-    - title: Design Assistant
+    - title: Asistente de Diseño
       institution: <a href="https://promoarticulos.co/servicios-de-marca-en-articulos-promocionales/">PromoArtículos</a>
       year: 2024 - 2024
       description:
-        - Operation of specialized equipment.
-        - Material management.
-        - Equipment maintenance.
+        - Operación de equipos especializados.
+        - Gestión de materiales.
+        - Mantenimiento de equipos.
     
-    - title: Production Assistant
+    - title: Asistente de Producción
       institution: <a href="https://promoarticulos.co/servicios-de-marca-en-articulos-promocionales/">PromoArtículos</a>
       year: 2021 - 2022
       description:
-        - Packing/unpacking products, managing materials for inventory control, and ensuring resource availability.
-        - Textile sublimation, screen printing, and product labeling for distribution.
+        - Empaque/desempaque de productos, gestión de materiales para el control de inventario y aseguramiento de la disponibilidad de recursos.
+        - Sublimación textil, serigrafía y etiquetado de productos para su distribución.
 
-
-- title: Open Source Projects
+- title: Proyectos
   type: time_table
   contents:
     - title: <a href="https://github.com/davidbejarn/Recomombot">Recomombot</a>
@@ -59,7 +58,7 @@
       year: 2024
       description: A Java-based system for managing vehicle access.
       
-- title: Certificates
+- title: Certificados
   type: time_table
   contents:
     - title: Power BI
@@ -83,7 +82,7 @@
       year: 2025
 
 
-- title: Academic Interests
+- title: Intereses Académicos
   type: nested_list
   contents:
     - title: Programming
@@ -103,7 +102,7 @@
       items:
     
 
-- title: Other Interests
+- title: Otros
   type: list
   contents:
     - <a href="https://davidbejarn.github.io">Hobbies</a> Cycling 🚴‍♂️, Studying 📚, Basketball 🏀, Cooking 🍳.
