@@ -9,7 +9,7 @@ last_name: Díaz
 email: juanbejaranodiaz03@gmail.com
 github: www.github.com/davidbejarn
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: 🔗  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: mouse.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://davidbejarn.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -392,7 +392,7 @@ languages: ["en-us", "es-co"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
-country_flag: false # set true for allowing flag symbol in language toggle
+country_flag: true # set true for allowing flag symbol in language toggle
 parallel_localization: false
 
 # -----------------------------------------------------------------------------
