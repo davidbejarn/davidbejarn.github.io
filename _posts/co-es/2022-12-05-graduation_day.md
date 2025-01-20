@@ -8,7 +8,7 @@ categories: [graduation, day]
 thumbnail: assets/img/schoolc.jpg
 ---
 
-This is an example post with image galleries.
+Carlo Federici IED
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,7 +19,7 @@ This is an example post with image galleries.
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    El día de mi graduación junto a mis compañeros de Bachillerato.
 </div>
 
 Images can be made zoomable.
