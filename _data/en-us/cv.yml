@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Juan David Bejarano Diaz
+      value: Juan David Bejarano Díaz
     - name: Date of Birth
       value: 3th November 2004
     - name: Languages
@@ -17,13 +17,15 @@
       
     - title: Técnico en Computación
       institution: <a href="https://www.etitc.edu.co/es/">Escuela Tecnológica Instituto Técnico Central</a>
-      year: 2025
+      year: 2024
       description:
-        - Actualmente (Horario Nocturno)
+        -
    
     - title: Inglés
       institution: <a href="https://smart.edu.co/home/?utm_source=GAdsPerformance&utm_medium=Display&gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrO4iRoEkoCIsNoQeLydzkrfUXsWFkHa0eXOfVW3r506fZPe-Wa96HoaAjz2EALw_wcB">Academia de Idiomas Smart</a>
       year: 2025
+      description:
+        - Actualmente cursando
 
 - title: Experience
   type: time_table
