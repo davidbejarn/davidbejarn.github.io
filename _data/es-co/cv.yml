@@ -4,7 +4,7 @@
     - name: Nombre
       value: Juan David Bejarano Díaz
     - name: Fecha de Nacimiento
-      value: 03/11/2004
+      value: 03-11-2004
     - name: Idiomas
       value: Inglés, Español
 
@@ -19,7 +19,7 @@
       institution: <a href="https://www.etitc.edu.co/es/">Escuela Tecnológica Instituto Técnico Central</a>
       year: 2025
       description:
-        - 
+         
    
     - title: Inglés
       institution: <a href="https://smart.edu.co/home/?utm_source=GAdsPerformance&utm_medium=Display&gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrO4iRoEkoCIsNoQeLydzkrfUXsWFkHa0eXOfVW3r506fZPe-Wa96HoaAjz2EALw_wcB">Academia de Idiomas Smart</a>
