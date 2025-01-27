@@ -7,7 +7,7 @@ subtitle: <b>Estudiante de Ingeniería de Sistemas<b>
 
 profile:
   align: right
-  image: maya2.jpg
+  image: IMG22.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
     <center>
