@@ -38,7 +38,9 @@ I possess skills in both software and hardware, allowing me to provide comprehen
 
 <p>I enjoy exploring new things and trying different activities. As an adventurous person. Traveling, walking, and hiking are some of my favorite ways to connect with nature🌳. I also love cycling, playing basketball, and listening to music🎧.</p>
 
-<p>Food is another passion of mine. I enjoy trying dishes from different cuisines, and baking desserts is one of my favorite hobbies. I’m currently exploring new cooking techniques and recipes. On the other hand, I’m also an animal lover, fascinated by arthropods and their diversity🕷. However, my pet cat who has become an important part of my life is my greatest companion. My hobbies keep me active and always curious about the world.</p>
+<p>Food is another passion of mine. I enjoy trying dishes from different cuisines, and baking desserts is one of my favorite hobbies. I’m currently exploring new cooking techniques and recipes. On the other hand, I’m also an animal lover, fascinated by arthropods and their diversity🕷. However, my pet cat who has become an important part of my life is my greatest companion. My hobbies keep me active and always curious about the world.
+
+</p>
 
 <p>If you have any questions or would like to connect, please do not hesitate to contact me!</p>
 
