@@ -90,18 +90,21 @@
   contents:
     - title: Programming
       items:
-        - Java
-        - Python
+        - Programming languages as Python and Java
+        - Frameworks and libraries
+        - Visualization
     - title: Cloud
       items:
         - AWS
         - Google Cloud
     - title: Data Analysis 
       items:
-        - Microsoft Excel
+        - Relational and Non-Relational Databases
+        - Python, Julia, SQL, NoSQL
         - Google Sheets
         - Power BI
-    - title: Machine Learning 
+        - Microsoft Excel
+    - title: Machine Learning and IA 
       items:
     
 
