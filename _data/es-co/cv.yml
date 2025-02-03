@@ -64,10 +64,6 @@
 - title: Certificados
   type: time_table
   contents:
-    - title: Power BI
-      institution: MINTIC Colombia
-      year: 2025
-    
     - title: SQL Interactivo
       institution: Desafio Latam
       year: 2025
@@ -79,11 +75,6 @@
     - title: English for developers & IT proffesionals
       institution: Desafio Latam
       year: 2025
-    
-    - title: Inteligencia artificial aplicada
-      institution: MINTIC Colombia
-      year: 2025
-
 
 - title: Intereses Académicos
   type: nested_list
