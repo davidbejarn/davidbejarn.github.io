@@ -3,8 +3,8 @@
   contents:
     - name: Nombre
       value: Juan David Bejarano Díaz
-    - name: Fecha de Nacimiento
-      value: 03-11-2004
+    - name: Fecha Nacimiento
+      value: 3 de Noviembre del 2004
     - name: Idiomas
       value: Inglés, Español
 
@@ -38,12 +38,12 @@
         - Gestión de materiales.
         - Mantenimiento de equipos.
     
-    - title: Asistente de Producción
-      institution: <a href="https://promoarticulos.co/servicios-de-marca-en-articulos-promocionales/">PromoArtículos</a>
-      year: 2021 - 2022
+    - title: Servicio Técnico
+      institution: <a>Servicio Técnico ZF</a>
+      year: 2023 - 2024
       description:
-        - Empaque/desempaque de productos, gestión de materiales para el control de inventario y aseguramiento de la disponibilidad de recursos.
-        - Sublimación textil, serigrafía y etiquetado de productos para su distribución.
+        - Mantenimiento y reparación de computadoras
+        - Atención al cliente.
 
 - title: Proyectos
   type: time_table
