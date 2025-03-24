@@ -31,20 +31,20 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Design Assistant
+    - title: Auxiliar de diseño
       institution: <a href="https://promoarticulos.co/servicios-de-marca-en-articulos-promocionales/">PromoArtículos</a>
       year: 2024 - 2024
       description:
-        - Operation of specialized equipment.
-        - Material management.
-        - Equipment maintenance.
+        - Operación de equipos especializados.
+        - Gestión de materiales.
+        - Mantenimiento de equipos.
     
-    - title: Production Assistant
-      institution: <a href="https://promoarticulos.co/servicios-de-marca-en-articulos-promocionales/">PromoArtículos</a>
-      year: 2021 - 2022
+    - title: Servicio Técnico
+      institution: <a>Servicio Técnico ZF</a>
+      year: 2023 - 2024
       description:
-        - Packing/unpacking products, managing materials for inventory control, and ensuring resource availability.
-        - Textile sublimation, screen printing, and product labeling for distribution.
+        - Mantenimiento y reparación de computadoras.
+        - Atención al cliente.
 
 
 - title: Open Source Projects
