@@ -54,9 +54,9 @@
       year: 2024
       description: A project that focuses on recommending movies and books, with the help of an AI agent.
 
-    - title: <a href="https://github.com/davidbejarn/Attendance-Tracker">Attendance-Tracker</a>
+    - title: <a href="https://github.com/davidbejarn/SwiftGadget">SwiftGadget</a>
       year: 2025
-      description: A tool that records and monitors users attendance at events, such as work or training sessions.
+      description: A digital store specializing in the sale of peripherals.
 
     - title: <a href="https://github.com/davidbejarn/AccessManager">AccessManager</a>
       year: 2024
@@ -65,16 +65,20 @@
 - title: Certificates
   type: time_table
   contents:
-    - title: SQL Interactivo
-      institution: Desafio Latam
+    - title: Seguridad Informática
+      institution: Udemy
       year: 2025
     
     - title: English B2
       institution: Academia de Idiomas Smart
       year: 2024
     
-    - title: English for developers & IT proffesionals
-      institution: Desafio Latam
+    - title: Relational Databases & SQL 
+      institution: Udemy
+      year: 2025
+
+    - title: Anonimato en la Red
+      institution: Udemy
       year: 2025
 
 - title: Academic Interests
