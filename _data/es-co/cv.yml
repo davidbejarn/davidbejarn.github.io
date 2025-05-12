@@ -30,20 +30,29 @@
 - title: Experiencia 
   type: time_table
   contents:
-    - title: Asistente de Diseño
+    - title: Customer Service Representative
+      institution: <a href="https://iterumconnections.com">Iterum connections</a>
+      year: 2024 - 2025
+      description:
+        - Gestión de autorizaciones médicas, reclamos y orientación a afiliados.
+        - Procesos de onboarding para nuevos usuarios.
+        - Manejo de bases de datos y registro de interacciones en CRM.
+        - Comunicación efectiva y enfoque en resolución de problemas.
+    
+    - title: Servicio Técnico
+      institution: <a>Servicio Técnico ZF</a>
+      year: 2023 - 2023
+      description:
+        - Mantenimiento y reparación de computadoras.
+        - Atención al cliente.
+
+    - title: Auxiliar de diseño
       institution: <a href="https://promoarticulos.co/servicios-de-marca-en-articulos-promocionales/">PromoArtículos</a>
-      year: 2024 - 2024
+      year: 2021 - 2022
       description:
         - Operación de equipos especializados.
         - Gestión de materiales.
         - Mantenimiento de equipos.
-    
-    - title: Servicio Técnico
-      institution: <a>Servicio Técnico ZF</a>
-      year: 2023 - 2024
-      description:
-        - Mantenimiento y reparación de computadoras
-        - Atención al cliente.
 
 - title: Proyectos
   type: time_table
