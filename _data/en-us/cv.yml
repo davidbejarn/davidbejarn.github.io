@@ -31,14 +31,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Customer Service Representative
-      institution: <a href="https://iterumconnections.com">Iterum connections</a>
-      year: 2024 - 2025
-      description:
-        - Gestión de autorizaciones médicas, reclamos y orientación a afiliados.
-        - Procesos de onboarding para nuevos usuarios.
-        - Manejo de bases de datos y registro de interacciones en CRM.
-        - Comunicación efectiva y enfoque en resolución de problemas.
+    #- title: Customer Service Representative
+     # institution: <a href="https://iterumconnections.com">Iterum connections</a>
+      #year: 2024 - 2025
+      #description:
+       # - Gestión de autorizaciones médicas, reclamos y orientación a afiliados.
+       # - Procesos de onboarding para nuevos usuarios.
+       # - Manejo de bases de datos y registro de interacciones en CRM.
+       # - Comunicación efectiva y enfoque en resolución de problemas.
     
     - title: Servicio Técnico
       institution: <a>Servicio Técnico ZF</a>
