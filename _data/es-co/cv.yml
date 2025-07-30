@@ -30,29 +30,29 @@
 - title: Experiencia 
   type: time_table
   contents:
-   # - title: Customer Service Representative
-    #  institution: <a href="https://iterumconnections.com">Iterum connections</a>
-     # year: 2024 - 2025
-     # description:
-      #  - Gestión de autorizaciones médicas, reclamos y orientación a afiliados.
-      #  - Procesos de onboarding para nuevos usuarios.
-      #  - Manejo de bases de datos y registro de interacciones en CRM.
-      #  - Comunicación efectiva y enfoque en resolución de problemas.
-    
-    - title: Servicio Técnico
-      institution: <a>Servicio Técnico ZF</a>
-      year: 2023 - 2023
+    - title: OP Customer Expert
+      institution: <a href="https://www.tp.com/en-us">Teleperformance</a>
+      year: 2025 - 2025
       description:
-        - Mantenimiento y reparación de computadoras.
-        - Atención al cliente.
-
+        - Brindé soporte técnico de primer nivel a conductores vía telefónica, resolviendo incidentes relacionados con la aplicación, cuentas, viajes y pagos.
+        - Manejé herramientas internas y hojas de cálculo para documentar casos, mantener registros actualizados y hacer seguimiento a cada solicitud.
+        - Asistí a los usuarios en la configuración de cuentas, validación de documentos, activación de perfiles y actualización de datos.
+        - Escalé casos complejos mediante JIRA, trabajando en conjunto con equipos internos para resolverlos eficazmente.
+    
     - title: Auxiliar de diseño
       institution: <a href="https://promoarticulos.co/servicios-de-marca-en-articulos-promocionales/">PromoArtículos</a>
-      year: 2021 - 2022
+      year: 2024 - 2024
       description:
         - Operación de equipos especializados.
         - Gestión de materiales.
         - Mantenimiento de equipos.
+    
+    - title: Servicio Técnico
+      institution: <a>Servicio Técnico Computadoras PcHome</a>
+      year: 2023 - 2023
+      description:
+        - Mantenimiento y reparación de computadoras.
+        - Atención al cliente.
 
 - title: Proyectos
   type: time_table
