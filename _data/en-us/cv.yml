@@ -11,15 +11,21 @@
 - title: Education
   type: time_table
   contents:
+    - title: Técnico en Computación
+      institution: <a href="https://www.etitc.edu.co/es/">Escuela Tecnológica Instituto Técnico Central</a>
+      year: 2025
+    
+    
     - title: Bachiller Académico
       institution: <a href="https://carlofederici.edu.co">Carlo Federici IED</a>
       year: 2022
       
-    - title: Ingeniería de Sistemas (Técnico en Computación)
+    - title: Ingeniería de Sistemas
       institution: <a href="https://www.etitc.edu.co/es/">Escuela Tecnológica Instituto Técnico Central</a>
       year: 2023
       description:
         - Actualidad (Horario Nocturno)
+    
         
    
     - title: Inglés
