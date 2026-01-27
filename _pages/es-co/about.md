@@ -3,11 +3,11 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <b>Estudiante de Ingeniería de Sistemas<b>
+subtitle: <b>Técnico en Computación | Estudiante de Ingeniería de Sistemas<b>
 
 profile:
   align: right
-  image: 6.jpg
+  image: photo1.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
     <center>
