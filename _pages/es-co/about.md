@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <b>Técnico en Computación | Estudiante de Ingeniería de Sistemas<b>
+subtitle: <b>Técnico en Computación - Estudiante de Ingeniería de Sistemas<b>
 
 profile:
   align: right
