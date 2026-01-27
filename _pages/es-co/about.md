@@ -7,7 +7,7 @@ subtitle: <b>Técnico en Computación | Estudiante de Ingeniería de Sistemas<b>
 
 profile:
   align: right
-  image: photo1.jpg
+  image: photo1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: > 
     <center>
