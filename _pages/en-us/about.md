@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: <b>Systems Engineering student<b>
+subtitle: <b>Computer Technician | Systems Engineering student<b>
 
 profile:
   align: right
